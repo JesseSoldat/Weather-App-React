@@ -6,7 +6,7 @@ td, th {
 	margin: 20px;
 }
 
-/*td:first-of-type, td:first-of-type > div {
+td:first-of-type, td:first-of-type > div {
   height: 200px;
   width: 250px;
-}*/
+}
